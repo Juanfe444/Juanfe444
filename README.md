@@ -16,9 +16,9 @@
   <a href="https://www.linkedin.com/in/juan-felipe-restrepo-del-valle-a92034214"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"/>
 
 ```python
 class JuanFelipe:
@@ -39,9 +39,33 @@ class JuanFelipe:
 - 📦 **Data & Logistics:** Operational dashboards, MRP planning, SARIMA demand forecasting, work-order automation.
 - 💬 **Ask me about:** robotics, control theory, ROS2 architecture, automation, or intelligent systems.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 ## 🛠️ Tech Stack
+
+<!-- Animated tech icons (techstack-generator) -->
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
+</div>
+
+<br/>
+
+<!-- Skill icons (skillicons.dev) -->
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=matlab,arduino,ros,opencv,linux,git,vscode,html,css,nodejs,fastapi,figma&perline=12" alt="skill icons"/>
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -88,7 +112,7 @@ class JuanFelipe:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 ## 🚀 Projects
 
@@ -103,7 +127,7 @@ class JuanFelipe:
 | [BIBONorth](https://github.com/Juanfe444/BIBONorth) · [BIBOSouth](https://github.com/Juanfe444/BIBOSouth) · [krogerBIBOSouth](https://github.com/Juanfe444/krogerBIBOSouth) | BIBO process automation by region | ![Py](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [WO_Agrupation_KN](https://github.com/Juanfe444/WO_Agrupation_KN) · [KS](https://github.com/Juanfe444/WO_Agrupation_KS) · [MBB](https://github.com/Juanfe444/WO_Agrupation_MBB) | Automatic work-order grouping | ![Py](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 ## 🔬 Engineering Interests
 
@@ -115,7 +139,7 @@ class JuanFelipe:
 - AI applied to Robotics & Automation
 - Data-driven Logistics & Supply Chain Optimization
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 ## 📊 GitHub Stats
 
@@ -132,7 +156,7 @@ class JuanFelipe:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juanfe444&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="activity graph"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 ## 📫 Contact
 
